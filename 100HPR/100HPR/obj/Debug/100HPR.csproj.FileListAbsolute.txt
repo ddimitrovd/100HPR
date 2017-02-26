@@ -1,0 +1,16 @@
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\bin\Debug\100HPR.exe.config
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\bin\Debug\100HPR.exe
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\bin\Debug\100HPR.pdb
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\100HPR.csprojResolveAssemblyReference.cache
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\MainWindow.g.cs
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\App.g.cs
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\100HPR_MarkupCompile.cache
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\100HPR_MarkupCompile.lref
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\MainWindow.baml
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\100HPR.g.resources
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\_100HPR.Properties.Resources.resources
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\100HPR.csproj.GenerateResource.Cache
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\100HPR.exe
+c:\users\bezbog\documents\visual studio 2015\Projects\100HPR\100HPR\obj\Debug\100HPR.pdb
+C:\Users\BezBog\Documents\Visual Studio 2015\Projects\100HPR\100HPR\obj\Debug\WindowP.g.cs
+C:\Users\BezBog\Documents\Visual Studio 2015\Projects\100HPR\100HPR\obj\Debug\WindowP.baml
